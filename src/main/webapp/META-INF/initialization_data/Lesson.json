@@ -1,0 +1,72 @@
+[
+	{
+		"lesson_id": "1",
+    		"lesson_name": "DSD 水肺潛水體驗",
+    		"lesson_location": "綠島",
+    		"lesson_photo": "DSD",
+		"mem_id": "4"
+	},
+	{
+		"lesson_id": "2",
+    		"lesson_name": "DFD 自由潛水體驗",
+    		"lesson_location": "小琉球",
+    		"lesson_photo": "DFD",
+		"mem_id": "3"
+	},
+	{
+		"lesson_id": "3",
+    		"lesson_name": "PADI Open Water Diver開放水域潛水員",
+    		"lesson_location": "蘭嶼",
+    		"lesson_photo": "PADI1",
+		"mem_id": "4"
+	},
+	{
+		"lesson_id": "4",
+    		"lesson_name": "PADI Advanced Open Water Diver進階開放水域潛水員",
+    		"lesson_location": "墾丁",
+    		"lesson_photo": "PADI2",
+		"mem_id": "1"
+	},
+	{
+		"lesson_id": "5",
+    		"lesson_name": "Review open water水肺激活課程",
+    		"lesson_location": "新北",
+    		"lesson_photo": "PADI3",
+		"mem_id": "4"
+	},
+	{
+		"lesson_id": "6",
+    		"lesson_name": "PADI Divemaster潛水長",
+    		"lesson_location": "綠島",
+    		"lesson_photo": "PADI4",
+		"mem_id": "1"
+	},
+	{
+		"lesson_id": "7",
+    		"lesson_name": "AIDA Basic Freediver基礎自由潛水員",
+    		"lesson_location": "澎湖",
+    		"lesson_photo": "AIDA1",
+		"mem_id": "3"
+	},
+	{
+		"lesson_id": "8",
+    		"lesson_name": "AIDA Freediver自由潛水員",
+    		"lesson_location": "墾丁",
+    		"lesson_photo": "AIDA2",
+		"mem_id": "1"
+	},
+	{
+		"lesson_id": "9",
+    		"lesson_name": "AIDA Advanced Freediver進階自由潛水員",
+    		"lesson_location": "小琉球",
+    		"lesson_photo": "AIDA3",
+		"mem_id": "3"
+	},
+	{
+		"lesson_id": "10",
+    		"lesson_name": "AIDA Master Freediver名仕自由潛水員",
+    		"lesson_location": "蘭嶼",
+    		"lesson_photo": "AIDA4",
+		"mem_id": "1"
+	}
+]
